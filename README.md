@@ -1,5 +1,5 @@
 
-# Virtual Classroom(Web-App)
+# Create a virtual classroom
 <!--A web application for online classroom where you can create your own class or can join someone else's. An online Assignment creation / submission and Grading application. -->
 
 - A Full Stack web application for an online classroom where you can create your own class or can join someone else’s.
